@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Yati Maharaj</string>
+    <string name="title_logo">NATIONAL GEOGRAPHIC</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <string name="basic_player">Basic YouTube Player</string>
+    <string name="minimal_player">Minimal YouTube Player</string>
+    <string name="custom_player_control">Custom YouTube Player Control</string>
+    <string name="player_fragment">YouTube Player Fragment Example</string>
+
+
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+
+    <string name="mahamantra">HARE KRISHNA HARE KRISHNA KRISHNA KRISHNA HARE HARE.</string>
+    <string name="mahamantra2">HARE RAMA HARE RAMA RAMA RAMA HARE HARE</string>
+
+
+</resources>
